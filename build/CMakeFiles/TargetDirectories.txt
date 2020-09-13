@@ -1,0 +1,7 @@
+C:/Users/shana/Desktop/LearnGL/build/CMakeFiles/LearnGL.dir
+C:/Users/shana/Desktop/LearnGL/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/shana/Desktop/LearnGL/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/shana/Desktop/LearnGL/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/shana/Desktop/LearnGL/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/shana/Desktop/LearnGL/build/external/glad/CMakeFiles/glad.dir
+C:/Users/shana/Desktop/LearnGL/build/external/glad/CMakeFiles/ALL_BUILD.dir
